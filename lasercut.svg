@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1500mm"
+   height="1000mm"
+   viewBox="0 0 1500 1000"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="lasercut.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.175"
+     inkscape:cx="868.04415"
+     inkscape:cy="-68.695261"
+     inkscape:document-units="mm"
+     inkscape:current-layer="svg8"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="717"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:lockguides="true"
+     showguides="true"
+     inkscape:snap-page="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:measure-start="0,0"
+     inkscape:measure-end="0,0"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="-1.3"
+     fit-margin-bottom="0"
+     showborder="false" />
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>milux</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>lasercut</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="display:none"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(250,401.55554)" />
+  <g
+     transform="translate(250,98.555542)"
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="axis">
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#1b35ff;stroke-width:0.45680985;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.00094597;stroke-opacity:1"
+       d="M -200.22841,901.44445 A 49.771594,49.77158 0 0 1 -250,951.21605 49.771594,49.77158 0 0 1 -299.7716,901.44445 49.771594,49.77158 0 0 1 -250,851.67286 a 49.771594,49.77158 0 0 1 49.77159,49.77159 z"
+       id="path901"
+       inkscape:connector-curvature="0" />
+    <g
+       gcodetools="Preview group"
+       id="g5358">
+      <path
+         d="M 0.22894919,750.0 L 0.22894919,1250.0"
+         gcodetools="Preview"
+         style="stroke:#f88;stroke-width:1;marker-end:url(#DrawCurveMarker);fill:none"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,-250.000000,-98.555542)"
+         id="path5356" />
+    </g>
+  </g>
+  <defs
+     id="defs50">
+    <marker
+       id="DrawCurveMarker"
+       orient="auto"
+       refX="-8"
+       refY="-2.41063"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         d="m -6.55552,-2.41063 v 0 L -13.11104,0 c 1.0473,-1.42323 1.04126,-3.37047 0,-4.82126"
+         style="fill:#000044;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path47" />
+    </marker>
+  </defs>
+  <defs
+     id="defs55">
+    <marker
+       id="DrawCurveMarker_r"
+       orient="auto"
+       refX="8"
+       refY="-2.41063"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 6.55552,-2.41063 v 0 L 13.11104,0 c -1.0473,-1.42323 -1.04126,-3.37047 0,-4.82126"
+         style="fill:#000044;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path52" />
+    </marker>
+  </defs>
+  <path
+     id="path41"
+     style="fill:none;stroke:#1b35ff;stroke-width:0.501;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DrawCurveMarker);stroke-dashoffset:0.00094597"
+     gcodetools="Preview"
+     d="M -200,999.77 H 199.76835"
+     inkscape:connector-curvature="0" />
+  <g
+     id="g5369" />
+  <defs
+     id="defs5374">
+    <marker
+       id="CheckToolsAndOPMarker"
+       orient="auto"
+       refX="-4"
+       refY="-1.687441"
+       style="overflow:visible">
+      <path
+         d=" m -4.588864,-1.687441 0.0,0.0 L -9.177728,0.0 c 0.73311,-0.996261 0.728882,-2.359329 0.0,-3.374882"
+         style="fill:#000044; fill-rule:evenodd;stroke:none;"
+         id="path5371" />
+    </marker>
+  </defs>
+  <defs
+     id="defs5379">
+    <marker
+       id="InOutPathMarker"
+       orient="auto"
+       refX="-4"
+       refY="-1.687441"
+       style="overflow:visible">
+      <path
+         d="m -4.588864,-1.687441 0.0,0.0 L -9.177728,0.0 c 0.73311,-0.996261 0.728882,-2.359329 0.0,-3.374882"
+         style="fill:#0072a7; fill-rule:evenodd;stroke:none;"
+         id="path5376" />
+    </marker>
+  </defs>
+  <g
+     id="g5735" />
+</svg>
